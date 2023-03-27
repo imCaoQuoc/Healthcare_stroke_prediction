@@ -1,6 +1,5 @@
 # **HEALTHCARE - STROKE PREDICTION**
-![Alt text](Screenshot 2023-03-27 173933.png)
-
+![alt text](Screenshot 2023-03-27 173933.png)
 ---
 
 ### **INTRODUCTION**
