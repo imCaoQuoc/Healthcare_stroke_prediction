@@ -14,6 +14,7 @@ Technologies I used:
 ---
 
 ### **INSTALLATION**
+I suggest you using Google Colab to run the healthcare_stroke_prediction.ipynb because it already has backages and libraries I use.
   - Install essential libraries and packages:
   
   ```
