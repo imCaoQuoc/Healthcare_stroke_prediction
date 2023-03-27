@@ -69,5 +69,5 @@ X = pd.DataFrame([lst], columns=columns_name)
 
 y = model.predict(X)
 st.write(y[0])
-y = y*100
+y = int(y*100)
 st.write(f"You have {y[0]} % to have a stroke")
