@@ -68,6 +68,6 @@ st.write(lst)
 X = pd.DataFrame([lst], columns=columns_name)
 
 y = model.predict(X)
-st.write(type(y))
+st.write(y[0])
 y = y*100
 st.write(f"You have {y} % to have a stroke")
