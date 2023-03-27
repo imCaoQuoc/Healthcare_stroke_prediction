@@ -2,7 +2,7 @@ import tensorflow as tf
 import streamlit as st
 import pandas as pd
 
-model = tf.keras.models.load_model("D:\PROJECT\PROJECT\model.h5", compile=False)
+model = tf.keras.models.load_model("D:\stroke\PROJECT\model.h5", compile=False)
 st.write("HEALTHCARE - STROKE PREDICTION WEB")
 
 lst = []
