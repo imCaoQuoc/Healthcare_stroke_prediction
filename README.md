@@ -1,5 +1,5 @@
 # **HEALTHCARE - STROKE PREDICTION**
-![Alt text](D:\stroke\Screenshot 2023-03-27 173933.png)
+![Alt text](Screenshot 2023-03-27 173933.png)
 
 ---
 
