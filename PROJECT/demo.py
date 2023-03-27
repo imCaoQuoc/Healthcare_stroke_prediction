@@ -63,8 +63,7 @@ elif smoke == "Smokes":
     lst.append(3)
 else:
     lst.append(0)
-
-st.write(lst)
+    
 X = pd.DataFrame([lst], columns=columns_name)
 
 y = model.predict(X)
