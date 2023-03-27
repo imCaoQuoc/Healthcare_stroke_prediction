@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 
 model = tf.keras.models.load_model("D:\PROJECT\PROJECT\model.h5", compile=False)
-
+st.write("abc")
 
 lst = []
 columns_name = ['gender', 'age', 'hypertension', 'heart_disease', 'ever_married',
