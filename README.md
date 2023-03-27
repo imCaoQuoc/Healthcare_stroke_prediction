@@ -47,3 +47,5 @@ This data has 12 columns, which stayed for 12 factors may cause stroke. These fa
   - `stroke`: 1 if the patient had a stroke or 0 if not
 
 Data has 5110 samples, where it has 201 missing values in column `bmi`.
+
+abs
