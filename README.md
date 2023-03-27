@@ -1,5 +1,5 @@
 # **HEALTHCARE - STROKE PREDICTION**
-![alt text](https://github.com/imCaoQuoc/Healthcare_stroke_prediction/blob/main/Screenshot%202023-03-27%20173933.png)
+![alt text](https://github.com/imCaoQuoc/Healthcare_stroke_prediction/blob/main/DATA/Screenshot%202023-03-27%20173933.png)
 ---
 
 ### **INTRODUCTION**
