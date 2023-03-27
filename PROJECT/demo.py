@@ -68,7 +68,5 @@ st.write(lst)
 X = pd.DataFrame([lst], columns=columns_name)
 
 y = model.predict(X)
-st.write(y[0])
-y = float(y*100)
-formatted_num = "{:.20f}".format(y)
+formatted_num = "{:.20f}".format(float(y*100))
 st.write(f"You have {formatted_num} % to have a stroke")
