@@ -63,9 +63,10 @@ elif smoke == "Smokes":
     lst.append(3)
 else:
     lst.append(0)
-    
-X = pd.DataFrame([lst], columns=columns_name)
+start = st.sidebar.button("Start")
+if start:
+    X = pd.DataFrame([lst], columns=columns_name)
 
-y = model.predict(X)
-formatted_num = "{:.2f}".format(float(y*100))
-st.write(f"You have {formatted_num} % to have a stroke")
+    y = model.predict(X)
+    formatted_num = "{:.2f}".format(float(y*100))
+    st.write(f"You have {formatted_num} % to have a stroke")
