@@ -55,4 +55,4 @@ Data has 5110 samples, where it has 201 missing values in column `bmi`.
 
 The Sequential Model is a type of neural network architecture in which the layers of the network are arranged sequentially, with the output of one layer being the input to the next layer. This type of architecture is commonly used for deep learning tasks such as image and speech recognition, natural language processing, and more.
 
-In this repository, I provide an example of how to build a sequential model using the TensorFlow library in Python. The model is trained on a stroke dataset and used to classify whether someone could be stroke or not.
+In this repository, I provide an example of how to build a sequential model using the TensorFlow library in Python. The model is trained on a [stroke dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset) and used to classify whether someone could be stroke or not.
