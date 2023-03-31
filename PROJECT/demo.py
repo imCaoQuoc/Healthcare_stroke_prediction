@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 
 model = tf.keras.models.load_model("D:\stroke\PROJECT\model.h5", compile=False)
-st.title("HEALTHCARE - STROKE PREDICTION WEB")
+st.title("HEALTHCARE-STROKE PREDICTION WEB")
 
 lst = []
 columns_name = ['gender', 'age', 'hypertension', 'heart_disease', 'ever_married',
