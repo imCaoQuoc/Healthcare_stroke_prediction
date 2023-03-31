@@ -63,6 +63,10 @@ In this repository, I provide an example of how to build a sequential model usin
 
 #### 1. Selecting features
 
-You need to select features that you have such as your gender, your age,... 
+You need to select features such as your gender, your age,... 
 
 #### 2. Click `Start`
+
+---
+
+### **RESULT**
