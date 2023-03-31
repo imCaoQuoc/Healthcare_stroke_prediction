@@ -8,7 +8,7 @@ This Github repository contains a machine learning project on stroke prediction.
 Technologies I used:
   - [Tensorflow](https://www.tensorflow.org/) to build a deep learning model.
   - [Sci-kit learn](https://www.tensorflow.org/) to preprocessing data.
-  - [Streamlit](https://streamlit.io/) to build a simple web.
+  - [Streamlit](https://streamlit.io/) to build a simple demo web.
   - [Streamlit documentation](https://www.youtube.com/playlist?list=PLtqF5YXg7GLmCvTswG32NqQypOuYkPRUE) to learn the basic of streamlit.
 
 ---
