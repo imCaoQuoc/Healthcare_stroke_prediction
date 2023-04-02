@@ -1,5 +1,5 @@
 # **HEALTHCARE - STROKE PREDICTION**
-![alt text](https://github.com/imCaoQuoc/Healthcare_stroke_prediction/blob/main/DATA/Screenshot%202023-03-31%20202705.png)
+
 ---
 
 ### **INTRODUCTION**
@@ -71,4 +71,6 @@ You need to select features such as your gender, your age,...
 
 ### **RESULT**
 
+A model will return a number between 0 and 1, that would be a percentage of stroke you may get.
 
+![alt text](https://github.com/imCaoQuoc/Healthcare_stroke_prediction/blob/main/DATA/Screenshot%202023-03-31%20202705.png)
