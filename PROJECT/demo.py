@@ -68,6 +68,5 @@ if start:
     X = pd.DataFrame([lst], columns=columns_name)
 
     y = model.predict(X)
-    st.write(y[0])
-    # formatted_num = "{:.2f}".format(float(y*100))
-    # st.write(f"You have {formatted_num} % to have a stroke")
+    formatted_num = "{:.2f}".format(float(y[0]*100))
+    st.write(f"You have {formatted_num} % to have a stroke")
